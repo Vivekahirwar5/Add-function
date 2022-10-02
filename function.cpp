@@ -24,4 +24,7 @@ int main
 {
   return (a+b);
 }
+function iseven(int a){
+return(a%2==0?true:false);
+}
 
