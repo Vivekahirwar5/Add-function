@@ -27,3 +27,6 @@ int main
 function sum(int a,int b){
 return(a+b)
 }
+function multy(int a,int b){
+return(a*b)
+}
