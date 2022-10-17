@@ -30,3 +30,6 @@ return(a+b)
 function(int a,int b){
   return(b,a);
 }
+function(int a,int b){
+return(a/b);
+}
