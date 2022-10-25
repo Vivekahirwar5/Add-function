@@ -34,5 +34,5 @@ function(int a,int b){
 return(a-b);
 }
 function(int a, int b, int c,int b){
-return(a-b*a-b);
+return(a-b/a-b);
 }
